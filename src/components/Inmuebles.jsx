@@ -4,7 +4,7 @@ const Inmuebles = () => {
     return (
         <>
         <Menu />
-        <div>
+        <div className="container text-light">
             <h1>Inmuebles</h1>
             <p>Bienvenido a la sección de inmuebles.</p>
             <p>Aquí puedes encontrar una variedad de propiedades disponibles para la venta o alquiler.</p>
