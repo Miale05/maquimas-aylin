@@ -1,0 +1,128 @@
+[
+    {
+        "marca": "Toyota",
+        "modelo": "Corolla AT 1.8L",
+        "precio": 20000,
+        "color": "Blanco",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Toyota",
+        "modelo": "Camry MT 1.8L",
+        "precio": 25000,
+        "color": "Negro",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Toyota",
+        "modelo": "RAV4 AT 2.8L",
+        "precio": 30000,
+        "color": "Azul",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Honda",
+        "modelo": "Civic MT 1.8L",
+        "precio": 22000,
+        "color": "Rojo",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Honda",
+        "modelo": "Accord AT 1.8L",
+        "precio": 28000,
+        "color": "Gris",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Honda",
+        "modelo": "CR-V AT 1.8L",
+        "precio": 32000,
+        "color": "Verde",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Ford",
+        "modelo": "Focus AT 2.1L",
+        "precio": 21000,
+        "color": "Plateado",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Ford",
+        "modelo": "Fusion AT 1.5L",
+        "precio": 27000,
+        "color": "Blanco",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Ford",
+        "modelo": "Escape AT 1.8L",
+        "precio": 29000,
+        "color": "Negro",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Malibu AT 1.8L",
+        "precio": 24000,
+        "color": "Azul",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Equinox AT 1.5L",
+        "precio": 31000,
+        "color": "Rojo",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Tahoe AT 3.8L",
+        "precio": 50000,
+        "color": "Negro",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Sentra AT 1.8L",
+        "precio": 19000,
+        "color": "Blanco",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Altima MT 1.8L",
+        "precio": 25000,
+        "color": "Gris",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Rogue AT 2.8L",
+        "precio": 28000,
+        "color": "Azul",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "BMW",
+        "modelo": "Serie 3 AT 1.8L",
+        "precio": 45000,
+        "color": "Negro",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "BMW",
+        "modelo": "X5 AT 2.5L",
+        "precio": 60000,
+        "color": "Blanco",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    },
+    {
+        "marca": "BMW",
+        "modelo": "Z4 AT 2.1L",
+        "precio": 55000,
+        "color": "Rojo",
+        "foto": "https://www.changan.com.pe/media/ympnmbfa/newcs15-1000x493-negro-opt.webp"
+    }
+]
