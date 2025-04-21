@@ -1,3 +1,4 @@
+import Footer from "./Footer.jsx";
 import Menu from "./Menu.jsx";
 
 const Inmuebles = () => {
@@ -10,6 +11,7 @@ const Inmuebles = () => {
             <p>Aquí puedes encontrar una variedad de propiedades disponibles para la venta o alquiler.</p>
             <p>Explora nuestras opciones y encuentra el hogar de tus sueños.</p>
         </div>
+        <Footer />
         </>
         
     );
