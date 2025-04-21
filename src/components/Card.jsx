@@ -1,13 +1,14 @@
 const Card = ({ car }) => {
   
     return (
-        <div className="card col-11 col-sm-6 col-md-4 col-lg-3 m-3 p-2 rounded-4">
+        <div className="col-12 col-sm-6 col-md-4 col-lg-4">
+        <div className="card m-2 p-1 rounded-4 ">
             <img src={car.foto} className="card-img-top" alt={car.nombre} />
             <div className="card-body">
                 <h4 className="card-title">{car.marca} - {car.modelo} - {car.color}</h4>
                 <hr/>
-                <span class="badge rounded-pill text-bg-warning">Plan Auto Ahorro</span> <br />
-                <span class="badge rounded-pill text-bg-success">Plan Auto Pronto</span> <br />
+                <span class="badge rounded-pill text-bg-warning">Plan Auto Ahorro</span>
+                <span class="badge rounded-pill text-bg-success">Plan Auto Pronto</span>
                 <span class="badge rounded-pill text-bg-info">Plan Seminuevo 60</span>
                 <h5 className="card-text mt-3 text-danger">Precio: ${car.precio}</h5>
                 <a 
@@ -19,6 +20,7 @@ const Card = ({ car }) => {
                     COTIZAR AQUI
                 </a>
             </div>
+        </div>
         </div>
     );
 };
