@@ -3,7 +3,7 @@ import logoPage from "../assets/logo.png";
 
 const Footer = () => {
     return (
-        <footer className="text-center py-3 bg-white">
+        <footer className="text-center py-5 bg-white">
             <img src={logoPage} alt="Logo" className="mb-4" />
             <p>Aylin Albujar - Asesora de Ventas</p>
             <p>Contacto: +51 999 888 777</p>
